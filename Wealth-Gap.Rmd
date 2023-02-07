@@ -1,0 +1,22 @@
+---
+title: "The Wealth Gap"
+output: html_document
+---
+
+## Homeownership Rates by Racial Category
+
+Here's a report about homeownership trends over time for different racial groups.
+
+Each collaborator should make a different change -- make a line plot, add color, or hide the code.
+
+```{r}
+home_owner <- read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-02-09/home_owner.csv')
+
+# Load library
+# Your code here
+
+# Make a line plot of the percentage of homeowners for racial categories over time
+# and color the plot by racial category
+
+# Your code here
+```
